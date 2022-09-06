@@ -2,6 +2,9 @@
 
 ## Hi, I am ***Subarna Saikia*** 👋
 
+#### Follow me
+[LinkedIn](https://www.linkedin.com/in/subarna-saikia/)
+
 <!--
 **subarnasaikia/subarnasaikia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
