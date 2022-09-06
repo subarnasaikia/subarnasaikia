@@ -1,4 +1,4 @@
-### Hi, I am ***Subarna Saikia*** 👋
+## Hi, I am ***Subarna Saikia*** 👋
 
 <!--
 **subarnasaikia/subarnasaikia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
