@@ -2,6 +2,9 @@
 
 ## Hi, I am ***Subarna Saikia*** 👋
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=subarnasaikia&theme=vision-friendly-dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subarnasaikia&theme=dark)](https://git.io/streak-stats)
+
 #### Follow me on
 [LinkedIn](https://www.linkedin.com/in/subarna-saikia/)
 
