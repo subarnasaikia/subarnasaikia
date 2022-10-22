@@ -1,4 +1,14 @@
-## Hi, I am ***Subarna Saikia*** 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋+!+Great+to+have+you+here)](https://git.io/typing-svg)
+
+Myself ***Subarna Saikia*** 
+===============================
+
+Developer and a Competitive programmar
+---------------------------------------
+
+ * 🌍 I'm from Assam, India
+ * :books: Gauhati University Institute of Science and Technology, Guwahati
+ * 🧠 I'm learning DSA and Python
 
 #### Follow me on
 [LinkedIn](https://www.linkedin.com/in/subarna-saikia/)
