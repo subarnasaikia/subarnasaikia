@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋+!+Great+to+have+you+here)](https://git.io/typing-svg)
 
-Myself ***Subarna Saikia*** 
+Myself, ***Subarna Saikia*** 
 ===============================
 
 Developer and a Competitive programmar
