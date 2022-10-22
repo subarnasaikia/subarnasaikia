@@ -1,5 +1,3 @@
-![Background](Background.png)
-
 ## Hi, I am ***Subarna Saikia*** 👋
 
 #### Follow me on
