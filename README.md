@@ -34,6 +34,16 @@ Developer and a Competitive programmar
 
 <a href="https://github.com/subarnasaikia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subarnasaikia&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+
 <!--
 **subarnasaikia/subarnasaikia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
