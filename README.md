@@ -43,6 +43,7 @@ Developer and a Competitive programmar
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=subarnasaikia&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!--
 **subarnasaikia/subarnasaikia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
