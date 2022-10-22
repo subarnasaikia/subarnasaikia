@@ -10,10 +10,14 @@ Developer and a Competitive programmar
  * :books: Gauhati University Institute of Science and Technology, Guwahati
  * 🧠 I'm learning DSA and Python
 
-#### Follow me on
-[LinkedIn](https://www.linkedin.com/in/subarna-saikia/)
 
-[Twitter](https://twitter.com/subarna_saikia)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://twitter.com/subarna_saikia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subarna_saikia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subarna-saikia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subarna-saikia/" height="30" width="40" /></a>
+</p>
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=subarnasaikia&theme=vision-friendly-dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subarnasaikia&theme=dark)](https://git.io/streak-stats)
