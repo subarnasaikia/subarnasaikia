@@ -6,9 +6,9 @@ Myself, ***Subarna Saikia***
 Developer and a Competitive programmer
 ---------------------------------------
 
- * 🌍 I'm from Assam, India
- * :books: Gauhati University Institute of Science and Technology, Guwahati
- * 🧠 I'm learning DSA and Python
+ * 🌍 I'm from Assam, India.
+ * :books: Gauhati University Institute of Science and Technology, Guwahati.
+ * 🧠 I'm learning DSA and Python.
 
 
 
