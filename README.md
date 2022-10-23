@@ -3,7 +3,7 @@
 Myself, ***Subarna Saikia*** 
 ===============================
 
-Developer and a Competitive programmer
+Developer and Competitive Programmer
 ---------------------------------------
 
  * 🌍 I'm from Assam, India.
