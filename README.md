@@ -1,3 +1,8 @@
+[![](https://visitcount.itsvg.in/api?id=subarnasaikia&icon=3&color=0)](https://visitcount.itsvg.in)
+
+---
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋+!+Great+to+have+you+here)](https://git.io/typing-svg)
 
 Myself, ***Subarna Saikia*** 
@@ -40,7 +45,10 @@ Developer and Competitive Programmer
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=subarnasaikia&icon=3&color=0)](https://visitcount.itsvg.in)
+
+[![subarnasaikia's GitHub | Stats](https://stats.quine.sh/subarnasaikia/github?theme=light)](https://quine.sh)
+[![subarnasaikia's GitHub | Languages Over Time](https://stats.quine.sh/subarnasaikia/languages-over-time?theme=light)](https://quine.sh)
+[![subarnasaikia's GitHub | Topics Over Time](https://stats.quine.sh/subarnasaikia/topics-over-time?theme=light)](https://quine.sh)
 
 
 ### Support Me
