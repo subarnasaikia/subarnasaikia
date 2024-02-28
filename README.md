@@ -61,11 +61,10 @@ Developer and Competitive Programmer
 
 
 ---
-<!--
+
 [![subarnasaikia's GitHub | Stats](https://stats.quine.sh/subarnasaikia/github?theme=light)](https://quine.sh)
 [![subarnasaikia's GitHub | Languages Over Time](https://stats.quine.sh/subarnasaikia/languages-over-time?theme=light)](https://quine.sh)
 [![subarnasaikia's GitHub | Topics Over Time](https://stats.quine.sh/subarnasaikia/topics-over-time?theme=light)](https://quine.sh)
--->
 
 ### Support Me
 
