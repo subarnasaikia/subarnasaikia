@@ -15,6 +15,8 @@
 
 - 💬 Ask me about **Competitive Programming, AI/ML, and Backend Development!**
 
+- ⚡ Fun fact: **I can type at 100 WPM.**
+
 ---
 
 <h3 align="center">Connect with me:</h3>
