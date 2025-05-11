@@ -9,6 +9,12 @@
 
 - 🔭 I’m currently working on [NoteX](https://github.com/subarnasaikia/NoteX)
 
+- 📊 I’m a [Codeforces Specialist](https://codeforces.com/profile/Subarna1) with a max rating of **1408**
+
+- 🥉 I’m a [3★ Coder on CodeChef](https://www.codechef.com/users/subarna1) with a max rating of **1655**
+
+- 🧠 I’m a [Kaggle Notebooks Expert](https://www.kaggle.com/subarnasaikia) with a best global rank of **2690**
+
 - 🌱 I’m currently learning **Nodejs, Deep Learning, RL**
 
 - 👯 I’m looking to collaborate on [Job Hub Aggregator](https://github.com/subarnasaikia/job-hub-aggregator)
