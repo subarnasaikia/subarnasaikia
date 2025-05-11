@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on [NoteX](https://github.com/subarnasaikia/NoteX)
 
+- ☀️ Undergraduate Research Summer Intern at [LUSIP 2025](https://lusip.lnmiit.ac.in/)
+
 - 📊 I’m a [Codeforces Specialist](https://codeforces.com/profile/Subarna1) with a max rating of **1408**
 
 - 🥉 I’m a [3★ Coder on CodeChef](https://www.codechef.com/users/subarna1) with a max rating of **1655**
