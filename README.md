@@ -7,9 +7,11 @@
 
 ---
 
-- 🔭 I’m currently working on [NoteX](https://github.com/subarnasaikia/NoteX)
+- 🔭 I’m currently working on [Genesis](https://github.com/subarnasaikia/genesis)
 
-- ☀️ Undergraduate Research Summer Intern at [LUSIP 2025](https://lusip.lnmiit.ac.in/)
+- Software Engineer (GenAI) Intern at [PocketFM](https://www.linkedin.com/company/pocket-fm/)
+
+- Previously worked at [ADP](https://www.linkedin.com/company/adp/) and [LUSIP 2025](https://lusip.lnmiit.ac.in/)
 
 - 📊 I’m a [Codeforces Specialist](https://codeforces.com/profile/Subarna1) with a max rating of **1432**
 
