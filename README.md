@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Genesis](https://github.com/subarnasaikia/genesis)
+- 🔭 I’m currently working on [loam](https://github.com/subarnasaikia/loam)
 
 - Software Engineer (GenAI) Intern at [PocketFM](https://www.linkedin.com/company/pocket-fm/)
 
