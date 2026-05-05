@@ -30,11 +30,11 @@ Graduating June 2026. Open to full-time SDE, AI Engineer, and GenAI roles at pro
 
 | Notebook | Competition | Topic | Upvotes |
 |---|---|---|---|
-| [Reversal Points in US Equities](https://www.kaggle.com/subarnasaikia) | Detecting Reversal Points (rank 59 / 426) | Time-series · stock data | 🔥 74 |
-| [CAFA 6 — base model](https://www.kaggle.com/subarnasaikia) | CAFA 6 Protein Function Prediction | Bioinformatics · multi-label | 59 |
-| [Multi-Label Dense NN — Transformer Model](https://www.kaggle.com/subarnasaikia) | CAFA 6 | Transformer · multi-label | 34 |
-| [It's Backpack time — XGBoost](https://www.kaggle.com/subarnasaikia) | Backpack Prediction (Playground S5E2) | Tabular · gradient boosting | 20 |
-| [S5E11 — EDA + LightGBM](https://www.kaggle.com/subarnasaikia) | Predicting Loan Payback | Tabular · EDA | 12 |
+| [Reversal Points in US Equities](https://www.kaggle.com/code/subarnasaikia/reversal-points-in-us-equities) | Detecting Reversal Points (rank 59 / 426) | Time-series · stock data | 🔥 74 |
+| [CAFA 6 — base model](https://www.kaggle.com/code/subarnasaikia/cafa-6-base-model-lb-0-209) | CAFA 6 Protein Function Prediction | Bioinformatics · multi-label | 59 |
+| [Multi-Label Dense NN — Transformer Model](https://www.kaggle.com/code/subarnasaikia/multi-label-dense-nn-transformer-model-lb-0-207) | CAFA 6 | Transformer · multi-label | 34 |
+| [It's Backpack time — XGBoost](https://www.kaggle.com/code/subarnasaikia/it-s-backpack-time-xgboost) | Backpack Prediction (Playground S5E2) | Tabular · gradient boosting | 20 |
+| [S5E11 — EDA + LightGBM](https://www.kaggle.com/code/subarnasaikia/s5e11-eda-lightgbm-lb-0-92596) | Predicting Loan Payback | Tabular · EDA | 12 |
 
 | Competition | Result | Field size |
 |---|---|---|
