@@ -61,6 +61,6 @@ Graduating June 2026. Open to full-time SDE, AI Engineer, and GenAI roles at pro
 
 ### 🤝 Let's talk if you're working on:
 
-Personal AI memory · Audio ML · Low-resource NLP · Dev tools that compound · Production LLM systems · Anything where the bar is "actually works at scale"
+GenAI · Personal AI memory · Low-resource NLP · Dev tools that compound · Production LLM systems · Anything where the bar is "actually works at scale"
 
 📬 Open to roles, collabs, and good conversations.
